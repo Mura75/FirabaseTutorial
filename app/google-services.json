@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "357864257449",
+    "firebase_url": "https://fristproject-821ab.firebaseio.com",
+    "project_id": "fristproject-821ab",
+    "storage_bucket": "fristproject-821ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357864257449:android:cec242a247c3da3e",
+        "android_client_info": {
+          "package_name": "kz.ant.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357864257449-ik28d727o912qmpb9p1d7oi51q3c94pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcWRZK2fFHBfbjAaPK8qvBdu-Q5s7xi-Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
