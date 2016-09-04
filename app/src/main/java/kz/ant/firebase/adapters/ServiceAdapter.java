@@ -1,4 +1,4 @@
-package kz.ant.firebase;
+package kz.ant.firebase.adapters;
 
 import android.content.Context;
 import android.view.View;

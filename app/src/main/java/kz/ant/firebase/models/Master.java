@@ -56,4 +56,15 @@ public class Master {
     public void setClientsList(List<Clients> clientsList) {
         this.clientsList = clientsList;
     }
+
+    @Override
+    public String toString() {
+        return "Master{" +
+                "name='" + name + '\'' +
+                ", phone='" + phone + '\'' +
+                ", instagramUrl='" + instagramUrl + '\'' +
+                ", cost='" + cost + '\'' +
+                ", clientsList=" + clientsList +
+                '}';
+    }
 }
